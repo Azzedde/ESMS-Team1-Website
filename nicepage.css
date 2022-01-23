@@ -4159,10 +4159,7 @@ textarea {
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
-::-webkit-input-placeholder {
-  color: inherit;
-  opacity: 0.54;
-}
+
 ::-webkit-file-upload-button {
   -webkit-appearance: button;
   font: inherit;
@@ -5559,12 +5556,8 @@ a {
 .u-label {
   font-weight: normal;
 }
-.u-form ::placeholder {
-  opacity: 0.5;
-}
-.u-form :-ms-input-placeholder {
-  opacity: 1;
-}
+
+
 .u-form-horizontal .u-form-submit {
   margin-right: 0 !important;
 }
@@ -18328,9 +18321,7 @@ blockquote .small:before {
 .u-search-right.u-search input {
   padding-left: 0.8em;
 }
-.u-search input::placeholder {
-  font-family: inherit;
-}
+
 .u-search-icon {
   box-sizing: content-box;
 }
@@ -18566,20 +18557,12 @@ blockquote .small:before {
   top: 0;
   left: 0;
 }
-/*
-	stretched thumbnail or div placeholder element (see below)
-	style is added to avoid flickering in webkit/blink when layers overlap
-*/
-.pswp__img--placeholder {
-  -webkit-backface-visibility: hidden;
-}
+
 /*
 	div element that matches size of large image
 	large image loads on top of it
 */
-.pswp__img--placeholder--blank {
-  background: #222;
-}
+
 .pswp--ie .pswp__img {
   width: 100% !important;
   height: auto !important;
