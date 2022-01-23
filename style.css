@@ -173,7 +173,7 @@ section{
           
           .login-form-container form h3{
             font-size: 3rem;
-            color:#444;
+            color:#fff;
             text-transform: uppercase;
             text-align: center;
             padding:1rem 0;
@@ -183,7 +183,7 @@ section{
             width:100%;
             padding:1rem;
             font-size: 1.7rem;
-            color:#333;
+            color:#fff;
             margin:.6rem 0;
             border:.1rem solid rgba(0,0,0,.3);
             text-transform: none;
@@ -209,7 +209,7 @@ section{
           .login-form-container form p{
             padding:.5rem 0;
             font-size: 1.5rem;
-            color:#666;
+            color:#fff;
           }
           
           .login-form-container form p a{
@@ -323,7 +323,7 @@ section{
           }
           .book.text.title {
             font-size:2rem;
-            color:#333; 
+            color:#fff;
          font-weight: bolder ;  
           }
         
@@ -345,7 +345,7 @@ section{
           }
           
           .packages .box-container .box img{
-            height: 25rem;
+            height: 20rem;
             width:100%;
             object-fit: cover;
           }
@@ -356,7 +356,7 @@ section{
           
           .packages .box-container .box .content h3{
             font-size:2rem;
-            color:#333;
+            color:#fff;
           }
           .packages .box-container .box .content h3 i{
             color:var(--orange);
@@ -364,7 +364,7 @@ section{
           
           .packages .box-container .box .content p{
             font-size:1.7rem;
-            color:#666;
+            color:#fff;
             padding:1rem 0;
           }
           
@@ -375,12 +375,12 @@ section{
           
           .packages .box-container .box .content .price{
             font-size: 2rem;
-            color:#333;
+            color:#fff;
             padding-top: 1rem;
           }
           
           .packages .box-container .box .content .price span{
-            color:#666;
+            color:#fff;
             font-size: 1.5rem;
             text-decoration: line-through;
           }
@@ -406,12 +406,12 @@ section{
           
           .services .box-container .box h3{
             font-size: 2.5rem;
-            color:#333;
+            color:#fff;
           }
           
           .services .box-container .box p{
             font-size: 1.5rem;
-            color:#666;
+            color:#fff;
             padding:1rem 0;
           }
           
@@ -496,12 +496,12 @@ section{
           }
           
           .review .box h3{
-            color:#333;
+            color:#ffff;
             font-size: 2.5rem;
           }
           
           .review .box p{
-            color:#666;
+            color:#ffff;
             font-size: 1.5rem;
             padding:1rem 0;
           }
@@ -544,7 +544,7 @@ section{
             margin:1rem 0;
             padding:1rem;
             font-size: 1.7rem;
-            color:#333;
+            color:#fff;
             background:#f7f7f7;
             text-transform: none;
           }
